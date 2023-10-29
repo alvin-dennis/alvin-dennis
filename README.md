@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
-<h3 align="center">A passionate Backend Web developer from Kerala,India</h3>
+<h3 align="center">A passionate Backend Web developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/MeteoricKnight/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/MeteoricKnight/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;Freelancer;Tech+Enthusiast&center=true&width=500&height=30"></a></p>
 
 ![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
 
