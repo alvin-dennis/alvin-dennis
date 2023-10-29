@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
-<h3 align="center">A passionate Fullstack Web developer from Kerala,India</h3>
+<h3 align="center">A passionate Backend Web developer from Kerala,India</h3>
 
 
  <p align="center"><a href="https://github.com/MeteoricKnight/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
