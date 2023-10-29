@@ -91,7 +91,7 @@
 
 <p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&locale=en"alt="MeteoricKnight" /></p>
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight&" alt="MeteoricKnight" /></p> 
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight&" alt="MeteoricKnight" /></p> -->
 
 
  <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight &theme=algolia" alt="MeteoricKnight" /></p>
