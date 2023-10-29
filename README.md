@@ -40,7 +40,7 @@
 <a href="https://www.codechef.com/users/alvindennis80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alvindennis80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/alvindecc4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://discord.gg/alvindennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alvindennis" height="30" width="40" /></a>
+<a href="https://discord.gg/732503927940972605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 </p>
 
 <br>
