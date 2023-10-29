@@ -99,8 +99,8 @@
  <!-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>
  
  <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight &theme=react-dark" alt="MeteoricKnight"/> </p>
- [![Alvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark" alt="MeteoricKnight"/> </p>
+[![Alvin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  
