@@ -94,7 +94,7 @@
 <p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight&" alt="MeteoricKnight" /></p> -->
 
 
- <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight &theme=algolia" alt="MeteoricKnight"(https://github-readme-streak-stats.herokuapp.com?user=MeteoricKnight&theme=vue-dark&hide_border=true" alt="GitHub Streak") /></p>
+ <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=MeteoricKnight&theme=vue-dark&hide_border=true" alt="GitHub Streak"  /></p>
  <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
  <!-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>
  
