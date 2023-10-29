@@ -96,7 +96,7 @@
 
  <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=MeteoricKnight&theme=github-dark-blue" alt="GitHub Streak" /></p>
  <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
- <!-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>
+ <!--<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark" alt="MeteoricKnight"/> </p>
@@ -112,18 +112,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://app.daily.dev/alvindennis"><img src="https://api.daily.dev/devcards/ffd82da77c4e4bcc9ef79a836dd9ee14.png?r=fc1" width="400" alt="Alvin Dennis's Dev Card"/></a>
 
-
-[![Jovit Mathew StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184&layout=compact)](https://stackoverflow.com/users/14724184/jovit-mathew)
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
-</div>
- 
-<div><a href="https://www.buymeacoffee.com/jovitmatheA"> <img align="center" src="https://raw.githubusercontent.com/Jovit-Mathew236/Jovit-Mathew236/main/default-yellow.webp" height="50" width="210" alt="jovitmatheA" /></a></div>
 
 
 <br>
