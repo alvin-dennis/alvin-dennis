@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
+<h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
 <h3 align="center">A passionate Fullstack Web developer from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/MeteoricKnight/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
 
 ![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
 
@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovit-mathew236&label=Profile%20views&color=0e75b6&style=flat" alt="jovit-mathew236" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovit-mathew236" alt="jovit-mathew236" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeteoricKnight" alt="jovit-mathew236" /></a> </p>
 
 
 <br>
