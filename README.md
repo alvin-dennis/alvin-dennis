@@ -87,7 +87,7 @@
 </br>
 
  <div align="center" width="495px">
-<<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
+<!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
 
 <p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&locale=en"alt="MeteoricKnight" /></p>
 
