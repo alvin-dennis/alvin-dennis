@@ -87,21 +87,21 @@
 </br>
 
  <div align="center" width="495px">
-<!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&show_icons=true&locale=en&layout=compact" alt="jovit-mathew236" /></p>
+<!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
 
-<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&locale=en" alt="jovit-mathew236" /></p>
+<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&locale=en"alt="MeteoricKnight" /></p>
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&" alt="jovit-mathew236" /></p> -->
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight&" alt="MeteoricKnight" /></p> -->
 
 
- <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&theme=algolia" alt="jovit-mathew236" /></p>
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&count_private=true&theme=algolia" />
- <!--<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jovit-mathew236"/></p>-->
+ <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight &theme=algolia" alt="MeteoricKnight" /></p>
+ <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
+ <!--<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>-->
  
  <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=jovit-mathew236&theme=react-dark" alt="jovit-mathew236"/> </p>
+  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight &theme=react-dark" alt="MeteoricKnight"/> </p>
  
- <!--[![jovits's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jovit-mathew236&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+ <!--[![jovits's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MeteoricKnight&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
  
  
