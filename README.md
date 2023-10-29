@@ -32,8 +32,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/jovit mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jovit mathew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jovit mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jovit mathew" height="30" width="40" /></a>
+<a href="https://dev.to/alvin_dennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Alvin Dennis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvin-dennis-0a70ba163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jovit mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jovit mathew" height="30" width="40" /></a>
 <a href="https://fb.com/jovit mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jovit mathew" height="30" width="40" /></a>
 <a href="https://instagram.com/jovit_mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovit_mathew" height="30" width="40" /></a>
