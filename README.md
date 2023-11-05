@@ -17,7 +17,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MeteoricKnight&label=Profile%20views&color=0e75b6&style=flat" alt="MeteoricKnight" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeteoricKnight" alt="jovit-mathew236" /></a> </p>
+
 
 
 <br>
@@ -100,7 +100,7 @@
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark" alt="MeteoricKnight"/> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeteoricKnight" alt="jovit-mathew236" /></a> </p>
  
  
  
