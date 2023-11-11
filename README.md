@@ -96,7 +96,7 @@
 
  <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=MeteoricKnight&theme=github-dark-blue" alt="GitHub Streak" /></p>
  <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
- <p align="center"><img width="495px" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoricKnight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)></p>
+ <p align="center"><img width="495px" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteoricKnight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/></p>
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark" alt="MeteoricKnight"/> </p>
