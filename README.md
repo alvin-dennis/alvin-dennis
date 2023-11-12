@@ -78,21 +78,25 @@
 
 </br>
 
- <div align="center" width="495px">
-<!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
-
-<p><img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&show_icons=true&locale=en"alt="alvin-dennis" /></p>
-
-<p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&" alt="alvin-dennis" /></p> -->
-<p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=alvin-dennis&theme=github-dark-blue" alt="GitHub Streak" /></p> 
-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&show_icons=true&count_private=true&theme=algolia" />
-
-
-
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvin-dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alvin-dennis"/></p>
+<p align="center">
  
- <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="alvin-dennis"/> </p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvin-dennis&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="alvin-dennis" /></a> </p>
  
  
