@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Backend Web developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/MeteoricKnight/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;Freelancer;Tech+Enthusiast&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;Freelancer;Tech+Enthusiast&center=true&width=500&height=30"></a></p>
 
 
 
@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
 ![](https://img.shields.io/bower/v/editor.md.svg) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alvin-Dennis&label=Profile%20views&color=0e75b6&style=flat" alt="Alvin-Dennis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alvin-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-dennis" /> </p>
 
 
 
@@ -89,19 +89,19 @@
  <div align="center" width="495px">
 <!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
 
-<p><img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=Alvin-Dennis&show_icons=true&locale=en"alt="Alvin-Dennis" /></p>
+<p><img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&show_icons=true&locale=en"alt="alvin-dennis" /></p>
 
-<p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvin-Dennis&" alt="Alvin-Dennis" /></p> -->
-<p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=Alvin-Dennis&theme=github-dark-blue" alt="GitHub Streak" /></p> 
-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=Alvin-Dennis&show_icons=true&count_private=true&theme=algolia" />
+<p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&" alt="alvin-dennis" /></p> -->
+<p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=alvin-dennis&theme=github-dark-blue" alt="GitHub Streak" /></p> 
+<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&show_icons=true&count_private=true&theme=algolia" />
 
 
 
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvin-Dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Alvin-Dennis"/></p>
+ <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvin-dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alvin-dennis"/></p>
  
  <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Dennis&theme=react-dark" alt="Alvin-Dennis"/> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alvin-Dennis&theme=onedark" alt="Alvin-Dennis" /></a> </p>
+  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="alvin-dennis"/> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
  
  
  
