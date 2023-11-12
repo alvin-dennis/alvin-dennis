@@ -26,7 +26,7 @@
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/steroidtocat.gif">
+<img align="right" alt="Coding" width="400" src="[https://octodex.github.com/images/steroidtocat.gif](https://octodex.github.com/steroidtocat/)">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
