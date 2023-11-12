@@ -101,7 +101,7 @@
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Dennis&theme=react-dark" alt="Alvin-Dennis"/> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alvin-Dennis" alt="Alvin-Dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alvin-Dennis&theme=onedark" alt="Alvin-Dennis" /></a> </p>
  
  
  
