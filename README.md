@@ -1,5 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvin-dennis.github.io)
-
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
+</div>
 <h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
 <h3 align="center">A passionate Backend Web developer and Tech Enthusiast from Kerala,India</h3>
 
