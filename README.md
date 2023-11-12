@@ -97,9 +97,9 @@
 
 
 
- <p align="left"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvin-Dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Alvin-Dennis"/></p>
+ <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvin-Dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Alvin-Dennis"/></p>
  
- <p align="right">
+ <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Dennis&theme=react-dark" alt="Alvin-Dennis"/> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alvin-Dennis" alt="Alvin-Dennis" /></a> </p>
  
