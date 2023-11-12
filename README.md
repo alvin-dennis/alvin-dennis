@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
 ![](https://img.shields.io/bower/v/editor.md.svg) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MeteoricKnight&label=Profile%20views&color=0e75b6&style=flat" alt="MeteoricKnight" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alvin-Dennis&label=Profile%20views&color=0e75b6&style=flat" alt="Alvin-Dennis" /> </p>
 
 
 
@@ -89,18 +89,17 @@
  <div align="center" width="495px">
 <!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&show_icons=true&locale=en&layout=compact" alt="MeteoricKnight" /></p>
 
-<p><img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&locale=en"alt="MeteoricKnight" /></p>
+<p><img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=Alvin-Dennis&show_icons=true&locale=en"alt="Alvin-Dennis" /></p>
 
-<p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeteoricKnight&" alt="MeteoricKnight" /></p> -->
+<p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvin-Dennis&" alt="Alvin-Dennis" /></p> -->
 
 
- <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=MeteoricKnight&theme=github-dark-blue" alt="GitHub Streak" /></p>
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeteoricKnight&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MeteoricKnight"/></p>
+
+ <p align="left"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvin-Dennis&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Alvin-Dennis"/></p>
  
- <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=MeteoricKnight&theme=react-dark" alt="MeteoricKnight"/> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeteoricKnight" alt="jovit-mathew236" /></a> </p>
+ <p align="right">
+  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Dennis&theme=react-dark" alt="Alvin-Dennis"/> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alvin-Dennis" alt="Alvin-Dennis" /></a> </p>
  
  
  
