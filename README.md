@@ -93,7 +93,7 @@
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="alvin-dennis"/> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="alvin-dennis" /></a> </p>
  
  
  
