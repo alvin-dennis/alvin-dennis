@@ -93,7 +93,7 @@
 
 <p><img align="right" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvin-Dennis&" alt="Alvin-Dennis" /></p> -->
 <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=Alvin-Dennis&theme=github-dark-blue" alt="GitHub Streak" /></p> 
-<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=MeteoricKnight&show_icons=true&count_private=true&theme=algolia" />
+<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=Alvin-Dennis&show_icons=true&count_private=true&theme=algolia" />
 
 
 
