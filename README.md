@@ -26,6 +26,10 @@
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
 <img align="right" alt="Coding"  width="375" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
@@ -44,8 +48,6 @@
 
 
 ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]([https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing](https://drive.google.com/file/d/1yNt1LdSUOV5pNX6cYrEAFskGp6nrX5jS/view?usp=sharing))
-
-<!-- BLOG-POST-LIST:END -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
