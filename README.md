@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALVIN_DENNIS">
 </div>
 <h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
 <h3 align="center">A passionate Backend Web developer and Tech Enthusiast from Kerala,India</h3>
