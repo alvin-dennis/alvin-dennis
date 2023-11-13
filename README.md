@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<img align="right" alt="Coding"  width="375" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="right" alt="Coding"  width="370" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
