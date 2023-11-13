@@ -26,7 +26,7 @@
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-<img align="right" alt="Coding"  width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="right" alt="Coding"  width="300" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
