@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennis.vercel.app)
 <h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
-<h3 align="center">A passionate Backend Web developer and Tech Enthusiast from Kerala,India</h3>
+<h3 align="center">A passionate  Web developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+developer;Freelancer;Tech+Enthusiast&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Freelancer;Tech+Enthusiast&center=true&width=500&height=30"></a></p>
 
 
 
