@@ -52,7 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" height="300px"></img><br>
+<img align="center" src="https://mulearn.org/embed/rank/alvindennis@mulearn" height="300px"></img><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h3 align="center">Connect with me</h3>
