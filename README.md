@@ -117,7 +117,7 @@
   </td>
 </tr>
 </table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&no-bg=true&layout=compact" alt="alvin-dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
  
  
  
