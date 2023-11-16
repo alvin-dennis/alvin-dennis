@@ -17,6 +17,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alvin-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-dennis" /> </p>
 
 
+<p align="center"><a href="https://alvindennis.vercel.app">Portfolio↗️</a></p>
+
 
 
 <br>
@@ -50,6 +52,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" height="300px"></img><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://dev.to/alvin_dennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Alvin Dennis" height="30" width="40" /></a>
