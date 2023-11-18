@@ -14,7 +14,14 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
 ![](https://img.shields.io/bower/v/editor.md.svg) -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alvin-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-dennis" /> </p>
+###
+<br>
+<hr>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
+</div>
+
+###
 
 
 <p align="center"><a href="https://alvindennis.vercel.app">Portfolio↗️</a></p>
