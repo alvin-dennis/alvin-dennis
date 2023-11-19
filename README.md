@@ -39,7 +39,7 @@
 
 <img align="right" alt="Coding"  width="370" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
+<picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
  ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
