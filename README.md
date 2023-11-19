@@ -59,7 +59,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h3 align="center">Socials</h3>
+<h3 align="left">Socials</h3>
 <a href="https://linkedin.com/in/alvin-dennis-0a70ba163" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://instagram.com/_a.lvin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alvindennis80" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Alvin Dennis" height="30" width="40" /></a>
@@ -71,7 +71,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="center" width="350px"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -89,14 +89,14 @@
 
 
 
-<h3 align="center"></h3>
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Activity</h3>
+<h3 align="left">Activity</h3>
 
 </br>
 
