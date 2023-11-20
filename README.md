@@ -109,7 +109,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false" alt="GitHub Streak"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
