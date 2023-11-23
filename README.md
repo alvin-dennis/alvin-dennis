@@ -3,7 +3,7 @@
 <h3 align="center">A passionate  Web developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Freelancer;Tech+Enthusiast;UI+/+UX+Designer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
 
 
 
