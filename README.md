@@ -31,11 +31,7 @@
 <br>
 <!-- <style></style> -->
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
 
-
-<!-- BLOG-POST-LIST:END -->
 
 <img align="right" alt="Coding"  width="370" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
