@@ -43,7 +43,7 @@
  
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Frontend%20-%23563D7C?style=for-the-badge) 
  
- ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Tech%20-%23563D7C?style=for-the-badge)
+ ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Tech%20-%23E34F26?style=for-the-badge)
  
  
 ![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alvindennis80@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
