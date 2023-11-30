@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennis.vercel.app/)
-<h1 align="center">Hi 👋, I'm Alvin Dennis</h1>
+<h1 align="center">Hi 👋, I'm Alvin</h1>
 <h3 align="center">A passionate  Web developer and Tech Enthusiast from Kerala,India</h3>
 
 
