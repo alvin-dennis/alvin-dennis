@@ -38,7 +38,7 @@
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20Development%20Prowress-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20Development%20Prowess-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
 
  
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Frontend%20-%23563D7C?style=for-the-badge) 
