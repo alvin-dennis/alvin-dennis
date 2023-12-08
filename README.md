@@ -65,8 +65,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,javascript,ts,react,next,vercel,linux,vscode,html,css,styledcomponents,java,dart,flutter,materialui,sass,tailwind,bootstrap,python,c,git,github,bash,ae,androidstudio,alpinejs,webpack,discord,spring,figma,firebase,flask,gatsby,githubactions,redux,mongodb,mysql,netlify,nodejs,ps,postgres,powershell,idea,ai,latex,remix,wordpress,&perline=8" />
+  </a>
+</p>
 
+<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
