@@ -73,7 +73,6 @@
     <img src="https://skillicons.dev/icons?i=gcp,react,vercel,linux,vscode,html,css,flutter,python,django,arduino,c,git,github,androidstudio,discord,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,&perline=8" />
   </a>
 </p>
-
 <br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
