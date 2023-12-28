@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennis.vercel.app/)
 <h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">A passionate  Web Developer and Tech Enthusiast from Kerala,India</h3>
+<h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
 
 
 
@@ -38,7 +38,7 @@
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20Development%20Prowess-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/React20%and20%Typescript-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
 
  
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Frontend%20-%23563D7C?style=for-the-badge) 
