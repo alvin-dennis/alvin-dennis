@@ -65,7 +65,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xt73ooffnzyrang7igiypr6wja&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=050505&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xt73ooffnzyrang7igiypr6wja&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=050505&bar_color_cover=false)](https://github.com/alvin-dennis)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
