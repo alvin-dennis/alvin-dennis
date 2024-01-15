@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennis.vercel.app/)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennisv1.vercel.app/)
 <h1 align="center">Hi 👋, I'm Alvin</h1>
 <h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
 
@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
 </div>
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://alvindennisv1.vercel.app/)
 
 ###
 
