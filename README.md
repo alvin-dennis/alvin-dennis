@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
 </div>
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ###
 
