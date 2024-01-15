@@ -33,7 +33,7 @@
 
 
 
-<img align="center" alt="Coding"  width="370" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img align="center" alt="Coding"  width="350" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
