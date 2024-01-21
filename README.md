@@ -67,13 +67,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennismaster/assets/dino.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
