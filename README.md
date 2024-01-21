@@ -66,7 +66,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xt73ooffnzyrang7igiypr6wja&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=050505&bar_color_cover=false)](https://github.com/alvin-dennis)
+
+<img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+![](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
