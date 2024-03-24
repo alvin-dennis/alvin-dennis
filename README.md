@@ -115,7 +115,9 @@
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
  
- 
+[![alvin-dennis's GitHub | Dependencies](https://stats.quine.sh/alvin-dennis/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BTANISHA11) 
+
+[![alvin-dennis's GitHub | Stats](https://stats.quine.sh/alvin-dennis/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
  
  
 <br>
@@ -127,9 +129,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
 
 <br>
 
