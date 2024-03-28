@@ -115,13 +115,12 @@
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
  
-[![alvin-dennis's GitHub | Dependencies](https://stats.quine.sh/alvin-dennis/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BTANISHA11) 
 
 [![alvin-dennis's GitHub | Stats](https://stats.quine.sh/alvin-dennis/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
 
 [![alvin-dennis's GitHub | Languages](https://stats.quine.sh/alvin-dennis/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
 
-[![alvin-dennis's GitHub | Topics](https://stats.quine.sh/alvin-dennis/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
+
 
 
  
