@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,notion,discord,trello,postman,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,notion,discord,astro,postman,selenium&perline=8" />
   </a>
 </p>
 
