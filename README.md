@@ -120,6 +120,7 @@
 
 [![alvin-dennis's GitHub | Languages](https://stats.quine.sh/alvin-dennis/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
 
+[![alvin-dennis's GitHub | Dependencies](https://stats.quine.sh/alvin-dennis/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
 
 
 
