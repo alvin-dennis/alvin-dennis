@@ -67,9 +67,10 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
-<div align="center">
+<div align="center" >
  
-![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/dino.gif)
+<a href="https://gitroll.io/profile/uR212ZWRkt1MhgV0tNUDIRIpTvz82" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uR212ZWRkt1MhgV0tNUDIRIpTvz82" alt="GitRoll Profile Badge"/></a>
+
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -119,15 +120,6 @@
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
  
-<div align="center">
- 
-[![alvin-dennis's GitHub | Stats](https://stats.quine.sh/alvin-dennis/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
-
-[![alvin-dennis's GitHub | Languages](https://stats.quine.sh/alvin-dennis/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
-
-[![alvin-dennis's GitHub | Dependencies](https://stats.quine.sh/alvin-dennis/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alvin-dennis)
-</div>
-
  
 <br>
  
