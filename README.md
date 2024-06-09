@@ -69,7 +69,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
 <div align="center" >
  
-<a href="https://gitroll.io/profile/uR212ZWRkt1MhgV0tNUDIRIpTvz82" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uR212ZWRkt1MhgV0tNUDIRIpTvz82" alt="GitRoll Profile Badge"/></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 </div>
@@ -119,7 +120,10 @@
 </tr>
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
- 
+
+<div align="center">
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
+</div>
  
 <br>
  
