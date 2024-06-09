@@ -5,14 +5,6 @@
 
  <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
 
-
-
-<!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
-![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
-![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
-![](https://img.shields.io/github/release/pandao/editor.md.svg) 
-![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
-![](https://img.shields.io/bower/v/editor.md.svg) -->
 ###
 <br>
 <hr>
@@ -67,14 +59,17 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
-<div align="center" >
  
 <!--START_SECTION:waka-->
+
+```txt
+
+```
 
 <!--END_SECTION:waka-->
 
 
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
