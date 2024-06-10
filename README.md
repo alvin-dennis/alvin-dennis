@@ -58,26 +58,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ></a>
- 
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 May 2024 - To: 09 June 2024
-
-Total Time: 65 hrs 5 mins
-
-JavaScript    24 hrs 49 mins  >>>>>>>>>----------------   37.66 %
-Vue.js        16 hrs 14 mins  >>>>>>-------------------   24.65 %
-JSON          7 hrs 31 mins   >>>----------------------   11.42 %
-CSS           5 hrs 55 mins   >>-----------------------   09.00 %
-Markdown      2 hrs 37 mins   >------------------------   03.99 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
@@ -123,11 +103,30 @@ Markdown      2 hrs 37 mins   >------------------------   03.99 %
   </td>
 </tr>
 </table>
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 09 May 2024 - To: 09 June 2024
+
+Total Time: 65 hrs 5 mins
+
+JavaScript    24 hrs 49 mins  >>>>>>>>>----------------   37.66 %
+Vue.js        16 hrs 14 mins  >>>>>>-------------------   24.65 %
+JSON          7 hrs 31 mins   >>>----------------------   11.42 %
+CSS           5 hrs 55 mins   >>-----------------------   09.00 %
+Markdown      2 hrs 37 mins   >------------------------   03.99 %
+```
+
+<!--END_SECTION:waka-->
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
 
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
 </div>
+
+
  
 <br>
  
