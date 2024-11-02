@@ -107,15 +107,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 31 October 2024
+From: 09 May 2024 - To: 01 November 2024
 
-Total Time: 142 hrs 13 mins
+Total Time: 145 hrs 30 mins
 
-JavaScript      44 hrs 4 mins   >>>>>>>>-----------------   30.57 %
-Vue.js          23 hrs 18 mins  >>>>---------------------   16.17 %
-HTML            17 hrs 33 mins  >>>----------------------   12.18 %
-CSS             14 hrs 2 mins   >>-----------------------   09.74 %
-Python          9 hrs 42 mins   >>-----------------------   06.73 %
+JavaScript      44 hrs 5 mins   >>>>>>>------------------   29.90 %
+Vue.js          23 hrs 18 mins  >>>>---------------------   15.81 %
+HTML            18 hrs 10 mins  >>>----------------------   12.33 %
+CSS             14 hrs 45 mins  >>>----------------------   10.01 %
+Python          9 hrs 42 mins   >>-----------------------   06.58 %
 ```
 
 <!--END_SECTION:waka-->
