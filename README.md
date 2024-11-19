@@ -12,14 +12,20 @@
   <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
 </div>
 <br/>
-<div align="center">
-<img src="https://dcbadge.limes.pink/api/shield/732503927940972605?theme=default-inverted"/>
-</div>
 
 ###
 
 
-<p align="center"><a href="https://alvindennis.vercel.app/">Portfolio↗️</a></p>
+<p align="center">
+  <a href="https://alvindennis.tech/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0078D4; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Portfolio</button>
+  </a>
+  <span style="margin: 0 10px; font-size: 16px; color: #000;">|</span>
+  <a href="https://resume.alvindennis.tech" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #FF6F61; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Resume</button>
+  </a>
+</p>
+
 
 
 
@@ -30,7 +36,7 @@
 
 <img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
-<picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
+<b> About Me</b>
 
 
  ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
@@ -52,8 +58,6 @@
 <h3 align="left"> Socials</h3>
 <a href="https://linkedin.com/in/alvin-dennis-0a70ba163" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://instagram.com/_a.lvin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alvindennis80" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://discord.gg/732503927940972605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -66,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,notion,discord,astro,postman,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,c,latex,markdown,javascript,react,vite,vue,astro,nodejs,webpack,tailwindcss,bootstrap,scss,mongodb,mysql,supabase,firebase,postgres,prisma,anaconda,figma,babel,vscode,pycharm,codepen,bash,powershell,github,githubactions,vercel,netlify,heroku,webflow,gcp,git,postman,selenium,tensorflow,notion,obsidian,arduino,raspberrypi,matlab,anaconda&perline=8" />
   </a>
 </p>
 
