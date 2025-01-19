@@ -3,7 +3,7 @@
 <h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
 
 ###
 <br>
@@ -42,15 +42,12 @@
  ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
 
  
- ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/React.JS%20and%20Typescript%20-%23563D7C?style=for-the-badge) 
+ ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Discord.py%20Bot%20Development%20-%23563D7C?style=for-the-badge) 
  
  ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Tech%20-%23E34F26?style=for-the-badge)
  
  
 ![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alvindennis80@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
-
-
-![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]([https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing](https://drive.google.com/file/d/1yNt1LdSUOV5pNX6cYrEAFskGp6nrX5jS/view?usp=sharing))
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -70,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,c,latex,markdown,javascript,react,vite,vue,astro,nodejs,webpack,tailwindcss,bootstrap,scss,mongodb,mysql,supabase,firebase,postgres,prisma,anaconda,figma,babel,vscode,pycharm,codepen,bash,powershell,github,githubactions,vercel,netlify,heroku,webflow,gcp,git,postman,selenium,tensorflow,notion,obsidian,arduino,raspberrypi,matlab,anaconda&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,c,latex,markdown,javascript,react,vite,vue,astro,nodejs,webpack,tailwindcss,bootstrap,scss,mongodb,mysql,supabase,firebase,postgres,prisma,anaconda,fastapi,bots,figma,babel,vscode,pycharm,codepen,bash,powershell,github,githubactions,vercel,netlify,heroku,webflow,gcp,git,postman,selenium,tensorflow,notion,arduino,raspberrypi,matlab&perline=8" />
   </a>
 </p>
 
