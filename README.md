@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 28 February 2025
+From: 09 May 2024 - To: 01 March 2025
 
-Total Time: 255 hrs 32 mins
+Total Time: 257 hrs 35 mins
 
-JavaScript      61 hrs 47 mins  >>>>>>-------------------   23.89 %
-Python          44 hrs 5 mins   >>>>---------------------   17.05 %
-HTML            28 hrs 55 mins  >>>----------------------   11.18 %
-Vue.js          23 hrs 21 mins  >>-----------------------   09.03 %
-Astro           22 hrs 16 mins  >>-----------------------   08.61 %
+JavaScript      61 hrs 47 mins  >>>>>>-------------------   23.70 %
+Python          44 hrs 5 mins   >>>>---------------------   16.91 %
+HTML            28 hrs 56 mins  >>>----------------------   11.10 %
+Vue.js          23 hrs 21 mins  >>-----------------------   08.96 %
+Astro           22 hrs 16 mins  >>-----------------------   08.54 %
 ```
 
 <!--END_SECTION:waka-->
