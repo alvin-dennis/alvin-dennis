@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 April 2025
+From: 09 May 2024 - To: 17 April 2025
 
-Total Time: 313 hrs 22 mins
+Total Time: 320 hrs 16 mins
 
-JavaScript           79 hrs 16 mins  >>>>>>-------------------   24.97 %
-Python               51 hrs 16 mins  >>>>---------------------   16.15 %
-TypeScript           41 hrs 32 mins  >>>----------------------   13.08 %
-HTML                 29 hrs 56 mins  >>-----------------------   09.43 %
-Vue.js               23 hrs 21 mins  >>-----------------------   07.36 %
+JavaScript           79 hrs 48 mins  >>>>>>-------------------   24.60 %
+Python               51 hrs 16 mins  >>>>---------------------   15.80 %
+TypeScript           47 hrs 10 mins  >>>>---------------------   14.54 %
+HTML                 29 hrs 56 mins  >>-----------------------   09.23 %
+Vue.js               23 hrs 21 mins  >>-----------------------   07.20 %
 ```
 
 <!--END_SECTION:waka-->
