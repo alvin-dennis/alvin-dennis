@@ -90,7 +90,7 @@
 **Description:** A custom URL shortening service developed for St. Joseph's College of Engineering and Technology.  
 **Technologies:** `Nextjs` | `Tailwind CSS` | `Shadcn` | `Supabase`  
 **Highlights:** Architected and implemented a full-stack URL shortening platform featuring custom analytics dashboards, secure user authentication, and branded link generation capabilities for institutional use.  
-[GitHub Repo](https://github.com/alvin-dennis/Sjcet-Url-Shortner) | [Live Demo](https://shortx-sjcet.vercel.app/)
+[GitHub Repo](https://github.com/nexussjcet/Sjcet-Url-Shortner) | [Live Demo](https://shortx-sjcet.vercel.app/)
 
 </details>
 
@@ -160,7 +160,7 @@
 **Description:** Comprehensive event management solution with real-time updates, registration tracking, and administrative capabilities.  
 **Technologies:** `Vue` | `React` | `JavaScript` | `Tailwind CSS` | `Firebase`  
 **Highlights:** Designed and implemented a Firebase-powered event management application with real-time data synchronization, registration analytics dashboard, and role-based administrative controls for institutional event coordination and logistics.  
-[GitHub Repo](https://github.com/alvin-dennis/Sjcet-Events) | [Live Demo](https://sjcet-events.vercel.app/)
+[GitHub Repo](https://github.com/nexussjcet/Sjcet-Events) | [Live Demo](https://sjcet-events.vercel.app/)
 
 </details>
 
