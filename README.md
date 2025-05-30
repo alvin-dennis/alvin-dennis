@@ -224,11 +224,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.88 %
-TypeScript   1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-JSON         34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TSConfig     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+From: 09 May 2024 - To: 29 May 2025
+
+Total Time: 358 hrs 18 mins
+
+JavaScript           84 hrs 41 mins  ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+TypeScript           74 hrs 46 mins  █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+Python               51 hrs 18 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+HTML                 30 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Vue.js               23 hrs 21 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
