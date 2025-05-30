@@ -37,7 +37,7 @@
 <b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/HackSup%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/HackSup%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
 
  
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Backend%20Web%20Development%20-%23563D7C?style=for-the-badge) 
@@ -237,7 +237,7 @@ Vue.js               23 hrs 21 mins  >>-----------------------   06.44 %
 
 <!--END_SECTION:waka-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark&title=-Reviews" alt="alvin-dennis" /></a> </p>
 
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
