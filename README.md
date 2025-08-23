@@ -4,12 +4,7 @@
 
 
  <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
-<br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
-</div>
-<br/>
 
 ###
 
@@ -78,7 +73,7 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
+    srcset="assets/breakout-light.svg"
   />
   <img alt="Breakout Game" src="assets/breakout-light.svg" />
 </picture>
@@ -88,32 +83,12 @@
 ## Projects
 
 <details>
-<summary>SJCET URL Shortener</summary>
-
-**Description:** A custom URL shortening service developed for St. Joseph's College of Engineering and Technology.  
-**Technologies:** `Nextjs` | `Tailwind CSS` | `Shadcn` | `Supabase`  
-**Highlights:** Architected and implemented a full-stack URL shortening platform featuring custom analytics dashboards, secure user authentication, and branded link generation capabilities for institutional use.  
-[GitHub Repo](https://github.com/nexussjcet/Sjcet-Url-Shortner) | [Live Demo](https://shortx-sjcet.vercel.app/)
-
-</details>
-
-<details>
 <summary>EleGuard</summary>
 
 **Description:** Smart elephant monitoring system with real-time hazard detection and notification capabilities.  
 **Technologies:** `Python` | `Raspberry Pi` | `Roboflow` | `OpenCV` | `Twilio`  
 **Highlights:** Designed and built an IoT-based elephant monitoring system that detects elephants and alerts people in real-time using computer vision and machine learning techniques, enhancing wildlife safety and community awareness.  
 [GitHub Repo](https://github.com/alvin-dennis/EleGuard) 
-
-</details>
-
-<details>
-<summary>BuilderBot</summary>
-
-**Description:** A Discord server bot designed for BuilderClan to assist with server functions, moderation and community management with the help of commands.  
-**Technologies:** `Python` | `Discord.py` | `Render` | `CloudFlare Workers`  
-**Highlights:** Designed and implemented a Discord bot to automate server monitoring, manage user roles, handle custom command execution to ensure a secure and organized digital environment.  
-[GitHub Repo](https://github.com/BuilderClan/BuilderBot) 
 
 </details>
 
@@ -134,46 +109,6 @@
 **Technologies:** `Nextjs` | `Tailwind CSS` | `Shadcn` | `TypeScript`  
 **Highlights:** Engineered a responsive TypeScript-based Next.js application featuring theme customization, component-based architecture, and optimized performance metrics to effectively showcase technical expertise and project accomplishments.  
 [GitHub Repo](https://github.com/alvin-dennis/Personal-Portfolio-2.0) | [Live Demo](https://alvindennis.tech/)
-
-</details>
-
-<details>
-<summary>Radio Community SJCET</summary>
-
-**Description:** Institutional web platform for HAM radio enthusiasts featuring responsive design, event management and educational resources.  
-**Technologies:** `HTML` | `CSS` | `Tailwind CSS` | `JavaScript`  
-**Highlights:** Developed a comprehensive community management system with responsive frontend architecture, dynamic content delivery, execom directory functionality for institutional technical organization.  
-[GitHub Repo](https://github.com/Radio-Community-SJCET/RC-SJCET) | [Live Demo](https://radiocommunity.sjcetpalai.ac.in/)
-
-</details>
-
-<details>
-<summary>Puthuvarsham Bot</summary>
-
-**Description:** A Discord bot featuring Malayalam New Year cultural content delivery and event notifications.  
-**Technologies:** `Python` | `Discord.py`  
-**Highlights:** Implemented a Python-based Discord bot utilizing Discord.py framework to automate cultural information distribution, featuring command-driven interaction patterns and programmatic content delivery for cultural celebration events.  
-[GitHub Repo](https://github.com/alvin-dennis/PuthuVarsham-Bot) 
-
-</details>
-
-<details>
-<summary>Event Dashboard</summary>
-
-**Description:** Comprehensive event management solution with real-time updates, registration tracking, and administrative capabilities.  
-**Technologies:** `Vue` | `React` | `JavaScript` | `Tailwind CSS` | `Firebase`  
-**Highlights:** Designed and implemented a Firebase-powered event management application with real-time data synchronization, registration analytics dashboard, and role-based administrative controls for institutional event coordination and logistics.  
-[GitHub Repo](https://github.com/nexussjcet/Sjcet-Events) | [Live Demo](https://sjcet-events.vercel.app/)
-
-</details>
-
-<details>
-<summary>Resume</summary>
-
-**Description:** Professional curriculum vitae document utilizing LaTeX for modular, version-controlled document management.  
-**Technologies:** `LaTeX`  
-**Highlights:** Created a modular LaTeX-based document generation system incorporating version control, automated formatting specifications, and componentized structure for maintaining professional documentation with consistent presentation.  
-[GitHub Repo](https://github.com/alvin-dennis/Resume) | [Live Demo](https://resume.alvindennis.tech/)
 
 </details>
 
