@@ -28,8 +28,7 @@
 
 
 <img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
-<b> About Me</b>
+<h3>About Me</h3>
 
 
  ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/HackSup%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
@@ -56,7 +55,7 @@
 
 
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,6 +65,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -77,60 +77,41 @@
   />
   <img alt="Breakout Game" src="assets/breakout-light.svg" />
 </picture>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Projects
+<h3 align="left">Projects</h3>
 
-<details>
-<summary>EleGuard</summary>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/alvin-dennis/EleGuard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=EleGuard&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vHackBots/Git-Time-Machine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vHackBots&repo=Git-Time-Machine&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/alvin-dennis/Personal-Portfolio-2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Personal-Portfolio-2.0&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alvin-dennis/DevMate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=DevMate&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Description:** Smart elephant monitoring system with real-time hazard detection and notification capabilities.  
-**Technologies:** `Python` | `Raspberry Pi` | `Roboflow` | `OpenCV` | `Twilio`  
-**Highlights:** Designed and built an IoT-based elephant monitoring system that detects elephants and alerts people in real-time using computer vision and machine learning techniques, enhancing wildlife safety and community awareness.  
-[GitHub Repo](https://github.com/alvin-dennis/EleGuard) 
-
-</details>
-
-<details>
-<summary>Git Time Machine</summary>
-
-**Description:** Interactive visualization platform for Git repository analysis that provides chronological mapping of project history.  
-**Technologies:** `HTML` | `Tailwind CSS` | `JavaScript` | `NPM` | `GitHub API`  
-**Highlights:** Implemented a repository visualization application leveraging GitHub API integration that presents commit history through an interactive timeline interface, facilitating efficient codebase evolution analysis.  
-[GitHub Repo](https://github.com/vHackBots/Git-Time-Machine) | [Live Demo](https://www.npmjs.com/package/git-tm)
-
-</details>
-
-<details>
-<summary>Personal Portfolio</summary>
-
-**Description:** Professional developer portfolio utilizing modern bento grid layout with responsive design and accessibility features.  
-**Technologies:** `Nextjs` | `Tailwind CSS` | `Shadcn` | `TypeScript`  
-**Highlights:** Engineered a responsive TypeScript-based Next.js application featuring theme customization, component-based architecture, and optimized performance metrics to effectively showcase technical expertise and project accomplishments.  
-[GitHub Repo](https://github.com/alvin-dennis/Personal-Portfolio-2.0) | [Live Demo](https://alvindennis.tech/)
-
-</details>
-
-<details>
-<summary>DevMate</summary>
-
-**Description:** DevMate is a chatbot that assists developers in finding the code they need.  
-**Technologies:** `Python` | `Pathway` | `OpenAI` | `Streamlit`  
-**Highlights:** Built an AI-powered coding assistant that integrates OpenAI's language models with a custom interface to provide contextualized code suggestions and explanations.  
-[GitHub Repo](https://github.com/alvin-dennis/DevMate) 
-
-</details>
-
-<details>
-<summary>Website Status Checker</summary>
-
-**Description:** This is a Python application to check the status of websites.  
-**Technologies:** `Python` | `Streamlit` | `Lighthouse API`  
-**Highlights:** Created a monitoring tool that performs real-time website status checks with performance metrics visualization using Lighthouse API integration.  
-[GitHub Repo](https://github.com/alvin-dennis/Website-Status-Checker) 
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -146,14 +127,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=transparent&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=transparent&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvin-dennis&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-dennis&theme=transparent&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
