@@ -99,20 +99,20 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/vHackBots/Git-Time-Machine">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vHackBots&repo=Git-Time-Machine&theme=transparent&hide_border=false&border_radius=15" />
+        <a href="https://github.com/alvin-dennis/Beyond-Syllabus">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Beyond-Syllabus&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/alvin-dennis/Personal-Portfolio-2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Personal-Portfolio-2.0&theme=transparent&hide_border=false&border_radius=15" />
+     <td>
+        <a href="https://github.com/alvin-dennis/DropaLink">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=DropaLink&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/alvin-dennis/DevMate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=DevMate&theme=transparent&hide_border=false&border_radius=15" />
+        <a href="https://github.com/alvin-dennis/Personal-Portfolio-2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Personal-Portfolio-2.0&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
     </tr>
