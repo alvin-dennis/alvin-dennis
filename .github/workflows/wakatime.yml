@@ -22,7 +22,7 @@ jobs:
           SHOW_TOTAL: true
 
                     ### commit
-          COMMIT_MESSAGE: Updated wakatime data with new metrics # optional
+          COMMIT_MESSAGE: "chore: updated wakatime data with new metrics"
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: github-actions[bot]
