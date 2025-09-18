@@ -26,4 +26,4 @@ jobs:
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: github-actions[bot]
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
