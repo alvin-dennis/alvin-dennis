@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,matlab,react,nextjs,vue,tailwind,astro,figma,md,latex,nodejs,express,elysia,workers,firebase,supabase,prisma,redis,postgres,sqlite,vercel,netlify,cloudflare,git,githubactions,postman,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=js,c,react,nextjs,vue,tailwind,astro,figma,md,latex,nodejs,express,elysia,workers,firebase,supabase,prisma,redis,postgres,sqlite,vercel,netlify,cloudflare,docker,git,githubactions,postman,arduino,raspberrypi,matlab," />
   </a>
 </p>
 
