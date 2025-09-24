@@ -140,7 +140,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=transparent&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=transparent&hide_border=false" alt="GitHub Streaks"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent" alt="Github Stats"/>
 </td>
 
 <td width="50%" align="center">
