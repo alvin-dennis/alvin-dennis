@@ -3,11 +3,9 @@
 <h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
-
+ <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineerr;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
 
 ###
-
 
 <p align="center">
   <a href="https://alvindennis.tech/" target="_blank" style="text-decoration: none;">
@@ -32,11 +30,7 @@
   </a>
 </p>
 
-
 <br>
-<!-- <style></style> -->
-
-
 
 <img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <h3>About Me</h3>
@@ -115,17 +109,27 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/alvin-dennis/Personal-Portfolio-2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Personal-Portfolio-2.0&theme=transparent&hide_border=false&border_radius=15" />
+        <a href="https://github.com/alvin-dennis/alvin-dennis.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=alvin-dennis.github.io&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+   <tr>
+     <td>
+        <a href="https://github.com/alvin-dennis/WaMate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=WaMate&theme=transparent&hide_border=false&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alvin-dennis/Aksharam">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Aksharam&theme=transparent&hide_border=false&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 <h3 align="left">GitHub Stats</h3>
 
@@ -173,8 +177,6 @@ JSON                 37 hrs 55 mins  █▓░░░░░░░░░░░░�
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
 </div>
 
-
- 
 <br>
  
  <div align="center">
