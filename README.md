@@ -1,9 +1,20 @@
-[![MasterHead](assets/banner.png)](https://alvindennis.tech/)
-<h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/banner-dark.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/banner-light.png"
+  />
+  <img alt="Banner" src="assets/banner-light.png" />
+</picture>
+</div>
 
+<br/>
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineerr;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineerr;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
 
 ###
 
