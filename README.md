@@ -14,7 +14,7 @@
 
 <br/>
 
- <p align="center"><a href="https://github.com/alvin-dennis"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineerr;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/alvin-dennis"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
 
 ###
 
@@ -155,7 +155,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=transparent&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent" alt="Github Stats"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=alvin-dennis&theme=transparent" alt="GitHub Streak" /></a>
+  <br></br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent" alt="Github Stats"/>
 </td>
 
 <td width="50%" align="center">
