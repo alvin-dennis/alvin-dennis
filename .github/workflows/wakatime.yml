@@ -21,7 +21,8 @@ jobs:
           SHOW_TOTAL: true
           ### commit
           COMMIT_MESSAGE: Updated wakatime data with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: github-actions[bot]
           COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+          FORCE_UPDATE: true
