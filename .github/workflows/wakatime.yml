@@ -25,4 +25,3 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: github-actions[bot]
           COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
-          FORCE_UPDATE: true
