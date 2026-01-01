@@ -179,15 +179,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 30 December 2025
+From: 09 May 2024 - To: 31 December 2025
 
-Total Time: 812 hrs 42 mins
+Total Time: 819 hrs 26 mins
 
-TypeScript           395 hrs 40 mins ████████████░░░░░░░░░░░░░   48.30 %
-JavaScript           115 hrs 52 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Python               52 hrs 18 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-JSON                 47 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Astro                44 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+TypeScript           401 hrs 40 mins ████████████░░░░░░░░░░░░░   48.63 %
+JavaScript           116 hrs 5 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Python               52 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JSON                 47 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Astro                44 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
