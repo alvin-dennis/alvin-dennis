@@ -28,6 +28,6 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add game.gif
+          git add assets/game.gif
           git commit -m "chore: update space game" || echo "No changes to commit"
           git push
