@@ -95,51 +95,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="left">Projects</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/alvin-dennis/EleGuard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=EleGuard&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alvin-dennis/Beyond-Syllabus">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=Beyond-Syllabus&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-     <td>
-        <a href="https://github.com/alvin-dennis/DropaLink">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=DropaLink&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alvin-dennis/alvin-dennis.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=alvin-dennis.github.io&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-   <tr>
-     <td>
-        <a href="https://github.com/alvin-dennis/WaMate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=WaMate&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alvin-dennis/mulearnhome">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvin-dennis&repo=mulearnhome&theme=transparent&hide_border=false&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="left">GitHub Stats</h3>
 
 </br>
