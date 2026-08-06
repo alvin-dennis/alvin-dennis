@@ -65,8 +65,8 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-<table>
-<tr>
+<table align="center">
+<tr width="50%">
 <td valign="top" width="50%">
 
 **Languages**
