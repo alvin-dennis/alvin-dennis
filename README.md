@@ -32,15 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=alvin-dennis&color=16537E&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/732503927940972605">
-    <picture>
-      <source alt="discord" media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-3/732503927940972605.png" >
-      <img alt="discord" src="https://discord.c99.nl/widget/theme-3/732503927940972605.png" />
-    </picture>
-  </a>
-</p>
-
 <br>
 
 <img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
@@ -74,11 +65,56 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,react,nextjs,vue,tailwind,astro,figma,md,latex,nodejs,express,elysia,workers,firebase,supabase,prisma,redis,postgres,sqlite,vercel,netlify,cloudflare,docker,git,githubactions,postman,arduino,raspberrypi,matlab," />
-  </a>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,c" />
 </p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,astro,figma" />
+</p>
+
+**Docs**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=md,latex" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,elysia,workers" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Database / BaaS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,redis,postgres,sqlite" />
+</p>
+
+**Deployment / Hosting**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+</p>
+
+**DevOps / Tooling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,postman" />
+</p>
+
+**Hardware / Misc**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -146,14 +182,5 @@ CSS                  52 hrs 14 mins        ▓░░░░░░░░░░░�
 <br>
  
  <div align="center">
- <p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br>
-
-<div></div>
 </div>
