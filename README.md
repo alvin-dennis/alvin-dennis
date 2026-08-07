@@ -19,11 +19,11 @@
 ###
 
 <p align="center">
-  <a href="https://alvindennis.tech/" target="_blank" style="text-decoration: none;">
+  <a href="https://alvinn.me/" target="_blank" style="text-decoration: none;">
     <button style="background-color: #0078D4; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Portfolio</button>
   </a>
   <span style="margin: 0 10px; font-size: 16px; color: #000;">|</span>
-  <a href="https://resume.alvindennis.tech" target="_blank" style="text-decoration: none;">
+  <a href="https://resume.alvinn.me" target="_blank" style="text-decoration: none;">
     <button style="background-color: #FF6F61; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Resume</button>
   </a>
 </p>
@@ -48,20 +48,11 @@
  
 ![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alvindennis80@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <h3 align="left"> Socials</h3>
 <p align="center">
 <a href="https://linkedin.com/in/alvindennis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://instagram.com/_a.lvin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 </p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -76,7 +67,7 @@
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,astro,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,figma" />
 </p>
 
 **Docs**
@@ -86,7 +77,7 @@
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,elysia,workers" />
+  <img src="https://skillicons.dev/icons?i=express,elysia,workers" />
 </p>
 
 </td>
@@ -94,7 +85,7 @@
 
 **Database / BaaS**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,redis,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,redis,postgres" />
 </p>
 
 **Deployment / Hosting**
@@ -116,47 +107,29 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="left">Holopin Badges</h3>
 
 [![@meteoricknight's Holopin badges](https://holopin.me/meteoricknight)](https://holopin.io/@meteoricknight)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <div align="center">
-<img src="assets/game.gif"></a>
+<img src="assets/game.gif" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="left">GitHub Stats</h3>
-
-</br>
-
-<p align="center">
  
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=transparent&show_icons=true&count_private=true&include_all_commits=false" />
-  <br></br>
-  <img align="center" src="https://streak-stats.demolab.com?user=alvin-dennis&theme=transparent" alt="GitHub Streak" /></a>
-  <br></br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent" alt="Github Stats"/>
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-dennis&theme=transparent&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=alvin-dennis&theme=transparent"
+    alt="GitHub Streak"
+    width="40%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent"
+    alt="GitHub Profile Summary"
+    width="58%"
+  />
+</p>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -173,14 +146,6 @@ Markdown             52 hrs 27 mins        ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark&title=-Reviews" alt="alvin-dennis" /></a> </p>
-
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
-</div>
-
-<br>
- 
- <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
