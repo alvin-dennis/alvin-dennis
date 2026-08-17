@@ -10,142 +10,156 @@
   />
   <img alt="Banner" src="assets/banner-light.png" />
 </picture>
+  
+<br/>
+<br/>
+
+<a href="https://alvinn.me/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/alvin-dennis/"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://resume.alvinn.me"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://linkedin.com/in/alvindennis/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://cal.com/alvindennis"><img src="https://img.shields.io/badge/Book%20a%20Call-111111?style=for-the-badge&logo=cal.com&logoColor=white" /></a>
+
 </div>
 
 <br/>
 
- <p align="center"><a href="https://github.com/alvin-dennis"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;Freelancer;Tech+Enthusiast;UI/UX+Designer;Bot+Developer&center=true&width=500&height=30"></a></p>
+## What I Do
 
-###
+I build web interfaces that hold up under real use — fast, responsive, and detailed enough that the motion and the layout feel considered rather than default. Most of my work lives in React and Next.js, translating design into interfaces that are clean to use and clean to maintain, with a particular interest in animation and interaction that goes beyond the basics.
 
-<p align="center">
-  <a href="https://alvinn.me/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0078D4; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Portfolio</button>
-  </a>
-  <span style="margin: 0 10px; font-size: 16px; color: #000;">|</span>
-  <a href="https://resume.alvinn.me" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #FF6F61; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Resume</button>
-  </a>
-</p>
+I trained as an electrical & electronics engineer before moving into frontend development, and that background still shapes how I approach a problem — as a system to reason through, not just a screen to style.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvin-dennis&color=16537E&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<br>
-
-<img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<h3>About Me</h3>
-
-
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/HackSup%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
-
+## Currently
  
- ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Backend%20Web%20Development%20-%23563D7C?style=for-the-badge) 
- 
- ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Tech%20-%23E34F26?style=for-the-badge)
- 
- 
-![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/alvindennis80@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
+- Frontend Developer, **[Foodo AI](https://foodo.ai)** — developing and maintaining responsive, performance-optimized web applications and translating UI/UX designs into clean, reusable code
+- Frontend Developer, **[µLearn Foundation](https://mulearn.org)** — contributing to the organization's web platforms
+- Independent freelance work and personal projects undertaken alongside full-time responsibilities
 
-<h3 align="left"> Socials</h3>
-<p align="center">
-<a href="https://linkedin.com/in/alvindennis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://instagram.com/_a.lvin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-</p>
+## Focusing On
 
-<h3 align="left">Languages and Tools</h3>
+- Backend and system design — learning to reason about the layers below the UI, not just consume an API
+- Frontend architecture at production scale — state (Zustand), server-state and caching (TanStack Query), and component structure that holds up as an app grows
+- Motion and interaction engineering — GSAP, Framer Motion, and Three.js applied as part of a production system, not a one-off effect
+- Shipping and operating real systems end to end — CI/CD, environment config, and deployment, not just local dev
+
+<br/>
+
+## Stack
 
 <table align="center">
-<tr width="50%">
+<tr>
 <td valign="top" width="50%">
 
 **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,c" />
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 </p>
 
 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,figma" />
+<p>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
 **Docs**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=md,latex" />
+<p>
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff" />
 </p>
 
 **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,elysia,workers" />
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff" />
 </p>
 
 </td>
 <td valign="top" width="50%">
 
 **Database / BaaS**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,redis,postgres" />
+<p>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 </p>
 
 **Deployment / Hosting**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+<p>
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-FF4A03?logo=Cloudflare-Workers&logoColor=white" />
 </p>
 
 **DevOps / Tooling**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,postman" />
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
+<img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff" />
 </p>
 
-**Hardware / Misc**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab" />
+**Hardware**
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff" />
 </p>
 
 </td>
 </tr>
 </table>
 
-<h3 align="left">Holopin Badges</h3>
+<br/>
 
-[![@meteoricknight's Holopin badges](https://holopin.me/meteoricknight)](https://holopin.io/@meteoricknight)
+## Stats
 
 <div align="center">
-<img src="assets/game.gif" />
+<img src="https://streak-stats.demolab.com?user=alvin-dennis&theme=transparent&hide_border=true" alt="GitHub Streak" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent" alt="GitHub Profile Summary" width="58%" />
+<img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark&hide_border=true" alt="Contribution activity graph"/>
 </div>
 
-<h3 align="left">GitHub Stats</h3>
- 
-  <!--- stats (start) -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=alvin-dennis&theme=transparent"
-    alt="GitHub Streak"
-    width="40%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvin-dennis&theme=transparent"
-    alt="GitHub Profile Summary"
-    width="58%"
-  />
-</p>
 <!--START_SECTION:waka-->
-
 ```txt
 From: 09 May 2024 - To: 16 August 2026
-
 Total Time: 1,711 hrs 53 mins
-
 TypeScript           1,181 hrs 25 mins     █████████████████░░░░░░░░   68.35 %
 JavaScript           123 hrs 39 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 JSON                 66 hrs 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 Markdown             58 hrs 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 Python               54 hrs 59 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
-
 <!--END_SECTION:waka-->
 
+<br/>
+
+## Badges
+
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
+
+[![@meteoricknight's Holopin badges](https://holopin.me/meteoricknight)](https://holopin.io/@meteoricknight)
+
+</div>
+
+<br/>
+
+## Get in Touch
+
+<div align="center">
+<a href="mailto:alvindennis80@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/alvindennis/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/alvin-dennis/"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/_a.lvin._/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://cal.com/alvindennis"><img src="https://img.shields.io/badge/Book%20a%20Call-111111?style=for-the-badge&logo=cal.com&logoColor=white" /></a>
 </div>
