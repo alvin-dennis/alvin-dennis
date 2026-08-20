@@ -133,14 +133,14 @@ I trained as an electrical & electronics engineer before moving into frontend de
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 18 August 2026
+From: 09 May 2024 - To: 19 August 2026
 
-Total Time: 1,722 hrs 52 mins
+Total Time: 1,725 hrs 45 mins
 
-TypeScript           1,189 hrs 33 mins     █████████████████░░░░░░░░   68.39 %
-JavaScript           123 hrs 51 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-JSON                 66 hrs 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Markdown             58 hrs 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TypeScript           1,191 hrs 6 mins      █████████████████░░░░░░░░   68.36 %
+JavaScript           124 hrs 27 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+JSON                 66 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Markdown             59 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 Python               54 hrs 59 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
