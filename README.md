@@ -24,26 +24,15 @@
 
 <br/>
 
-## What I Do
-
-I build web interfaces that hold up under real use — fast, responsive, and detailed enough that the motion and the layout feel considered rather than default. Most of my work lives in React and Next.js, translating design into interfaces that are clean to use and clean to maintain, with a particular interest in animation and interaction that goes beyond the basics.
-
-I trained as an electrical & electronics engineer before moving into frontend development, and that background still shapes how I approach a problem — as a system to reason through, not just a screen to style.
-
-## Currently
- 
-- Frontend Developer, **[Foodo AI](https://foodo.ai)** — developing and maintaining responsive, performance-optimized web applications and translating UI/UX designs into clean, reusable code
-- Frontend Developer, **[µLearn Foundation](https://mulearn.org)** — contributing to the organization's web platforms
-- Independent freelance work and personal projects undertaken alongside full-time responsibilities
-
-## Focusing On
-
-- Backend and system design — learning to reason about the layers below the UI, not just consume an API
-- Frontend architecture at production scale — state (Zustand), server-state and caching (TanStack Query), and component structure that holds up as an app grows
-- Motion and interaction engineering — GSAP, Framer Motion, and Three.js applied as part of a production system, not a one-off effect
-- Shipping and operating real systems end to end — CI/CD, environment config, and deployment, not just local dev
-
-<br/>
+```js
+const aboutme = {
+  role: "Frontend Developer",
+  workingAt: "Foodo AI",
+  focus: ["Web Apps", "Responsive Design", "Clean UI/UX"],
+  learningAbout: ["Backend", "Frontend architecture", "Motion engineering"],
+  askMeAbout: ["Web Dev", "Performance Optimization", "SaaS", "System design"],
+};
+```
 
 ## Stack
 
@@ -145,16 +134,6 @@ Python               55 hrs 2 mins         ▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<br/>
-
-## Badges
-
-<div align="center">
-
-[![@meteoricknight's Holopin badges](https://holopin.me/meteoricknight)](https://holopin.io/@meteoricknight)
-
-</div>
 
 <br/>
 
