@@ -122,15 +122,15 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 05 September 2026
+From: 09 May 2024 - To: 06 September 2026
 
-Total Time: 1,804 hrs 28 mins
+Total Time: 1,806 hrs 21 mins
 
-TypeScript           1,242 hrs 48 mins     █████████████████░░░░░░░░   68.18 %
-JavaScript           125 hrs 10 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Markdown             75 hrs 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-JSON                 68 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Python               55 hrs 47 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+TypeScript           1,244 hrs 18 mins     █████████████████░░░░░░░░   68.19 %
+JavaScript           125 hrs 10 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Markdown             75 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+JSON                 68 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python               55 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
