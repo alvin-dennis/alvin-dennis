@@ -122,7 +122,7 @@ const aboutme = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 19 September 2026
+From: 09 May 2024 - To: 20 September 2026
 
 Total Time: 1,850 hrs 27 mins
 
